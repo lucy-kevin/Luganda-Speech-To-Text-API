@@ -39,8 +39,8 @@ The Luganda STT application transcribes spoken Luganda into text in real-time. U
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/luganda-stt-api.git
-cd luganda-stt-api
+git clone https://github.com/lucy-kevin/Luganda-Speech-To-Text-API.git
+cd Luganda-Speech-To-Text-API
 ```
 2. Install dependencies:
 
