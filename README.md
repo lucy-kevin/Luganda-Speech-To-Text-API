@@ -62,3 +62,6 @@ You can text is using postman software or you can just clone the App and edit th
 ```bash
 curl -X POST -F 'file=@path_to_audio_file' http://localhost:5000/transcribe
 ```
+## Links
+- [The Luganda Speech-to-Text API](https://github.com/lucy-kevin/luganda-stt-api)
+- [The Luganda Speech-to-Text App](https://github.com/lucy-kevin/Luganda-Speech-to-Text)
