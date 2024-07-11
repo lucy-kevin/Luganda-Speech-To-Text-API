@@ -27,7 +27,7 @@ We welcome suggestions to improve the project. To suggest an enhancement, create
 1. **Fork the repository**: Click the "Fork" button at the top right corner of the repository page.
 2. **Clone your fork**: 
    ```bash
-   git clone https://github.com/yourusername/luganda-stt-api.git
+   git clone https://github.com/lucy-kevin/Luganda-Speech-To-Text-API.git
    ```
 3. **Create a new branch**: 
    ```bash
