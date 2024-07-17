@@ -61,6 +61,6 @@ By participating in this project, you agree to abide by the [Contributor Covenan
 
 ## Questions?
 
-If you have any questions, feel free to open an issue or contact us at kayikayikevin7@gmail.com
+If you have any questions, feel free to open an issue or contact us at kayikayikevin7@gmail.com/shillahaninga@gmail.com
 
 Thank you for your contributions!
