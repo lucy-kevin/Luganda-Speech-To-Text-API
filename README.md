@@ -2,6 +2,7 @@
 
 ## Inspiration
 The inspiration for developing the Luganda Speech-to-Text (STT) system stemmed from the desire to bridge the communication gap faced by deaf students in Luganda-speaking communities. Recognizing the need for a tool that could transcribe spoken Luganda into text, we aimed to create a solution that enables these students to access educational content and participate fully in classroom activities.
+![image](https://github.com/user-attachments/assets/9cf3bb8c-663a-4d7b-89b8-81dec38253b6)
 
 ## What It Does
 The Luganda STT application transcribes spoken Luganda into text in real-time. Users can save these transcriptions for future reference, enhancing accessibility and communication for Luganda-speaking individuals, particularly in educational settings.
